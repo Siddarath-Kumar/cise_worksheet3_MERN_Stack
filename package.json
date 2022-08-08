@@ -1,0 +1,27 @@
+{
+  "name": "cise_worksheet3_mern_stack",
+  "version": "1.0.0",
+  "description": "mern stack book app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "app": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Siddarath-Kumar/cise_worksheet3_MERN_Stack.git)"
+  },
+  "author": "Siddarath Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
+    "validation": "^0.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
